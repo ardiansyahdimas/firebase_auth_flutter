@@ -1,6 +1,11 @@
 # flutter_auth
 
-A new Flutter project.
+## Screenshot
+<p align="center">
+  <img src="assets/ss1.jpeg" width="140" />
+  <img src="assets/ss2.jpeg" width="140" />
+</p>
+
 
 ## Getting Started
 
